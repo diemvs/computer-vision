@@ -1,1 +1,1 @@
-from functions import convertToBgr, show
+from .functions import convertToBgr, show
